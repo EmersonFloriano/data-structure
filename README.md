@@ -1,1 +1,1 @@
-# Studies about data structure in IS
+# Studies about data structure

@@ -1,2 +1,1 @@
-# data-structure
-Materials about data structure
+# Studies about data structure in IS

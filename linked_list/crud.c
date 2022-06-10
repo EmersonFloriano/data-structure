@@ -99,7 +99,6 @@ void delete_first(List *list){
 
 void delete_N(List *list, int data){
   int j = 0;
-  Node *bf = NULL;
   Node *temp = (Node *) malloc(sizeof(Node));
 
   temp -> data = data;
